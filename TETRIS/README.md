@@ -28,6 +28,7 @@ This game is as simple as the original Tetris Game.
 Just run the game and Enjoy!!
 
 **KEYS USED:**
+
 p -> Pause the game
 
 space -> drop the tetromino tile to the bottom
