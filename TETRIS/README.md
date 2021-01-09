@@ -29,11 +29,17 @@ Just run the game and Enjoy!!
 
 **KEYS USED:**
 p -> Pause the game
+
 space -> drop the tetromino tile to the bottom
+
 d -> drop the tetromino one  bar down
+
 left key -> move tile to left
+
 right key -> move tile to right
+
 up key -> rotate the tile
+
 down key -> rotate the tile
 
 ## ENJOY!!!
