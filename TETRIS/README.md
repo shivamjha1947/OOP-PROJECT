@@ -6,14 +6,14 @@
 ## Files :
 
 We have 8 files:
-1)main.h
-2)main.cpp
-3)shape.h
-4)shape.cpp
-5)Tetris.h
-6)Tetris.cpp
-7)Board.h
-8)Board.cpp
+1) main.h
+2) main.cpp
+3) shape.h
+4) shape.cpp
+5) Tetris.h
+6) Tetris.cpp
+7) Board.h
+8) Board.cpp
 ## Setup Required to run the code :
 
 1) Download **visual studio** with C++ Desktop extension
